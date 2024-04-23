@@ -9,7 +9,7 @@
 # the existing plan of execution to see if an alternative approach is necessary.
 
 
-# What ChatGPT4 said about the above description:
+# What GPT4 said about the above description:
 # The detailed description for Comprehension effectively outlines its role as the system's initial point of interaction
 # with user inputs. Highlighting the steps of planning, preparation, and defining a verifiable outcome sets a strong
 # foundation for task execution. The mechanism for requesting additional information from the user if initial inputs are

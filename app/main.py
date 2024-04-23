@@ -1,10 +1,9 @@
-from comprehension.comprehension_agent import ComprehensionAgent
-from orchestration.orchestrator import Orchestrator
-from reasoning.reasoning_agent import ReasoningAgent
-from evaluation.evaluator import Evaluator
+from main.comprehension.comprehension_agent import ComprehensionAgent
+from main.orchestration.orchestrator import Orchestrator
+from main.reasoning.reasoning_agent import ReasoningAgent
+from main.evaluation.evaluator import Evaluator
 
 print('Cognitive CORE - Initializing...')
-
 
 def main():
     print('Cognitive Core - Starting...')

@@ -1,7 +1,7 @@
 # This is the main Orchestrator file.
 # Creation of Agents, Semantic Routing, and Delegation of Tasks and Tools
 
-# What ChatGPT4 said about the above description:
+# What GPT4 said about the above description:
 # The Orchestrator component's description as handling the creation of agents, semantic routing, and task delegation
 # clearly establishes it as the system's operational core. This module's role in managing the flow of tasks and ensuring
 # they are appropriately assigned and equipped underscores its critical function in maintaining the system's efficiency

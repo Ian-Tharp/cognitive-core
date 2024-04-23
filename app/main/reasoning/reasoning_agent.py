@@ -3,7 +3,7 @@
 # Based on the problems and steps necessary to complete the task at hand, Agents self-verify
 # and reason on how to provide the best outcome or solution to the given problem.
 
-# What ChatGPT4 said about the above description:
+# What GPT4 said about the above description:
 # Finally, the Reasoning Agent file's focus on problem understanding and solution verification illustrates the system's
 # depth in handling complex tasks. Allowing agents to self-verify and reason about the best outcomes encourages a level
 # of autonomy and intelligence necessary for tackling intricate problems. This component’s emphasis on self-verification
