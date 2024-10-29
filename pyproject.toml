@@ -11,6 +11,10 @@ python = "^3.12"
 fastapi = "^0.115.4"
 openai = "^1.52.2"
 pytest = "^8.3.3"
+pydantic = "^2.9.2"
+langchain = "^0.3.4"
+langchain-openai = "^0.2.4"
+langgraph = "^0.2.39"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.10.0"
