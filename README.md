@@ -11,6 +11,8 @@ The system is structured around the CORE principles, with each component serving
 - **Reasoning**: Applies logic and decision-making to process tasks and derive solutions.
 - **Evaluation**: Assesses the outcomes of tasks for quality assurance and relevance to the original input.
 
+https://excalidraw.com/#json=PY-6DoGbhybd0lLolBnDd,zwyWMAMPSjvolvtIHmm_Eg
+
 ## Technologies
 Cognitive CORE is built using Python and integrates FastAPI for exposing its functionalities through HTTP endpoints, enabling easy access and extensibility.
 
